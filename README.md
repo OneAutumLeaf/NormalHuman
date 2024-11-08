@@ -1,4 +1,4 @@
-![Full Stack AI powered email client](https://github.com/OneAutumLeaf/NormalHuman/blob/main/public/Front.png)
+![Full Stack AI powered email client](https://github.com/OneAutumLeaf/NormalHuman/blob/main/public/Front1.png)
 
 
 # Overview
